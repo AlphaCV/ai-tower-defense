@@ -1,0 +1,9 @@
+# Tested runtime baseline; optional helpers are not pinned here.
+# Install the project itself with: python -m pip install -e ".[viewer,rl,dev]"
+numpy==2.5.3
+gymnasium==1.4.0
+Pillow==12.3.0
+imageio==2.38.1
+torch==2.14.1
+pygame==2.6.1
+pytest==9.1.1

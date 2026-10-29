@@ -1,0 +1,155 @@
+{
+  "grass": {
+    "file": "kenney/towerDefense_tile157.png",
+    "original_file": "PNG/Default size/towerDefense_tile157.png",
+    "author": "Kenney Vleugels",
+    "license": "CC0-1.0",
+    "source": "https://kenney.nl/assets/tower-defense-top-down",
+    "use": "grass",
+    "modifications": "Original PNG; runtime scaling/rotation; grass color modulation"
+  },
+  "road": {
+    "file": "kenney/towerDefense_tile158.png",
+    "original_file": "PNG/Default size/towerDefense_tile158.png",
+    "author": "Kenney Vleugels",
+    "license": "CC0-1.0",
+    "source": "https://kenney.nl/assets/tower-defense-top-down",
+    "use": "road",
+    "modifications": "Original PNG; runtime scaling/rotation"
+  },
+  "rock": {
+    "file": "kenney/towerDefense_tile136.png",
+    "original_file": "PNG/Default size/towerDefense_tile136.png",
+    "author": "Kenney Vleugels",
+    "license": "CC0-1.0",
+    "source": "https://kenney.nl/assets/tower-defense-top-down",
+    "use": "rock",
+    "modifications": "Original PNG; runtime scaling/rotation"
+  },
+  "bush": {
+    "file": "kenney/towerDefense_tile131.png",
+    "original_file": "PNG/Default size/towerDefense_tile131.png",
+    "author": "Kenney Vleugels",
+    "license": "CC0-1.0",
+    "source": "https://kenney.nl/assets/tower-defense-top-down",
+    "use": "bush",
+    "modifications": "Original PNG; runtime scaling/rotation"
+  },
+  "base": {
+    "file": "kenney/towerDefense_tile180.png",
+    "original_file": "PNG/Default size/towerDefense_tile180.png",
+    "author": "Kenney Vleugels",
+    "license": "CC0-1.0",
+    "source": "https://kenney.nl/assets/tower-defense-top-down",
+    "use": "base",
+    "modifications": "Original PNG; runtime scaling/rotation"
+  },
+  "archer": {
+    "file": "kenney/towerDefense_tile249.png",
+    "original_file": "PNG/Default size/towerDefense_tile249.png",
+    "author": "Kenney Vleugels",
+    "license": "CC0-1.0",
+    "source": "https://kenney.nl/assets/tower-defense-top-down",
+    "use": "archer",
+    "modifications": "Original PNG; runtime scaling/rotation"
+  },
+  "cannon": {
+    "file": "kenney/towerDefense_tile250.png",
+    "original_file": "PNG/Default size/towerDefense_tile250.png",
+    "author": "Kenney Vleugels",
+    "license": "CC0-1.0",
+    "source": "https://kenney.nl/assets/tower-defense-top-down",
+    "use": "cannon",
+    "modifications": "Original PNG; runtime scaling/rotation"
+  },
+  "ice": {
+    "file": "kenney/towerDefense_tile203.png",
+    "original_file": "PNG/Default size/towerDefense_tile203.png",
+    "author": "Kenney Vleugels",
+    "license": "CC0-1.0",
+    "source": "https://kenney.nl/assets/tower-defense-top-down",
+    "use": "ice",
+    "modifications": "Original PNG; runtime scaling/rotation"
+  },
+  "tesla": {
+    "file": "kenney/towerDefense_tile204.png",
+    "original_file": "PNG/Default size/towerDefense_tile204.png",
+    "author": "Kenney Vleugels",
+    "license": "CC0-1.0",
+    "source": "https://kenney.nl/assets/tower-defense-top-down",
+    "use": "tesla",
+    "modifications": "Original PNG; runtime scaling/rotation"
+  },
+  "scout": {
+    "file": "kenney/towerDefense_tile246.png",
+    "original_file": "PNG/Default size/towerDefense_tile246.png",
+    "author": "Kenney Vleugels",
+    "license": "CC0-1.0",
+    "source": "https://kenney.nl/assets/tower-defense-top-down",
+    "use": "scout",
+    "modifications": "Original PNG; runtime scaling/rotation; enemy alpha-padding normalization"
+  },
+  "grunt": {
+    "file": "kenney/towerDefense_tile247.png",
+    "original_file": "PNG/Default size/towerDefense_tile247.png",
+    "author": "Kenney Vleugels",
+    "license": "CC0-1.0",
+    "source": "https://kenney.nl/assets/tower-defense-top-down",
+    "use": "grunt",
+    "modifications": "Original PNG; runtime scaling/rotation; enemy alpha-padding normalization"
+  },
+  "brute": {
+    "file": "kenney/towerDefense_tile269.png",
+    "original_file": "PNG/Default size/towerDefense_tile269.png",
+    "author": "Kenney Vleugels",
+    "license": "CC0-1.0",
+    "source": "https://kenney.nl/assets/tower-defense-top-down",
+    "use": "brute",
+    "modifications": "Original PNG; runtime scaling/rotation; enemy alpha-padding normalization"
+  },
+  "swarm": {
+    "file": "kenney/towerDefense_tile245.png",
+    "original_file": "PNG/Default size/towerDefense_tile245.png",
+    "author": "Kenney Vleugels",
+    "license": "CC0-1.0",
+    "source": "https://kenney.nl/assets/tower-defense-top-down",
+    "use": "swarm",
+    "modifications": "Original PNG; runtime scaling/rotation; enemy alpha-padding normalization"
+  },
+  "coin": {
+    "file": "kenney/towerDefense_tile272.png",
+    "original_file": "PNG/Default size/towerDefense_tile272.png",
+    "author": "Kenney Vleugels",
+    "license": "CC0-1.0",
+    "source": "https://kenney.nl/assets/tower-defense-top-down",
+    "use": "coin",
+    "modifications": "Original PNG; runtime scaling/rotation"
+  },
+  "arrow": {
+    "file": "kenney/towerDefense_tile251.png",
+    "original_file": "PNG/Default size/towerDefense_tile251.png",
+    "author": "Kenney Vleugels",
+    "license": "CC0-1.0",
+    "source": "https://kenney.nl/assets/tower-defense-top-down",
+    "use": "arrow",
+    "modifications": "Original PNG; runtime scaling/rotation"
+  },
+  "shell": {
+    "file": "kenney/towerDefense_tile252.png",
+    "original_file": "PNG/Default size/towerDefense_tile252.png",
+    "author": "Kenney Vleugels",
+    "license": "CC0-1.0",
+    "source": "https://kenney.nl/assets/tower-defense-top-down",
+    "use": "shell",
+    "modifications": "Original PNG; runtime scaling/rotation"
+  },
+  "spark": {
+    "file": "kenney/towerDefense_tile022.png",
+    "original_file": "PNG/Default size/towerDefense_tile022.png",
+    "author": "Kenney Vleugels",
+    "license": "CC0-1.0",
+    "source": "https://kenney.nl/assets/tower-defense-top-down",
+    "use": "spark",
+    "modifications": "Original PNG; runtime scaling/rotation"
+  }
+}
